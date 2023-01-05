@@ -1,6 +1,8 @@
 
 # Pandas - Operations and Filtering
 
+Jupyter Notebook used to perform Exploratory Data Analysis (EDA).
+
 - Visualizes stock prices using Seaborn and Matplotlib. 3 Stocks are considered including Facebook (FB), Twitter (TWTR) and Netflix (NFLX).
 - Using the stock_daily_prices.csv and stocks_daily_returns.csv dataset included in the course/workshop package, please do the following:
     - Import both datasets using Pandas.
