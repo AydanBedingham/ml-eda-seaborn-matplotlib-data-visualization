@@ -1,7 +1,7 @@
 
-# Pandas - Operations and Filtering
+# Seaborn Matplotlib Data Visualization
 
-Jupyter Notebook used to perform Exploratory Data Analysis (EDA).
+Jupyter Notebook data visualization with Seaborn and Matplotlib.
 
 - Visualizes stock prices using Seaborn and Matplotlib. 3 Stocks are considered including Facebook (FB), Twitter (TWTR) and Netflix (NFLX).
 - Using the stock_daily_prices.csv and stocks_daily_returns.csv dataset included in the course/workshop package, please do the following:
